@@ -1,0 +1,5 @@
+{
+  "name": "US Phone Timezone Lookup Bot",
+  "description": "A specialized tool for looking up US time zones, states, and major cities by phone area code, providing real-time comparison with Vietnam time and suggested calling hours.",
+  "requestFramePermissions": []
+}
